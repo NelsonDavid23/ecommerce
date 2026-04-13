@@ -13,3 +13,5 @@ ecommerce/
 ├── frontend/        → React + Vite + Tailwind (puerto 5173)
 ├── database/        → Scripts SQL
 └── docs/            → Evidencias del proyecto
+
+<img width="1903" height="1070" alt="image" src="https://github.com/user-attachments/assets/8775587c-0044-446f-bb48-dcabf458ae94" />
